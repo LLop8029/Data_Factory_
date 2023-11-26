@@ -30,4 +30,4 @@ borough=datos["borough"].value_counts().sort_values(ascending=False)
 
 st.bar_chart(borough)
 
-streamlit.run("c:/Users/caqso/OneDrive/Escritorio/MDC/Semestre 2/Programaciòn ll/Mongo_LILP_py.py")
+streamlit.run(".data/Mongo_LILP_py.py")
