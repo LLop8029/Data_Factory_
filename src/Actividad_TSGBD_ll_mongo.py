@@ -9,7 +9,7 @@ import streamlit as st
 import matplotlib.pyplot as plt
 
 #Enlazar con mongoDB para base de datos.
-cliente=MongoClient("mongodb+srv://larisalopez8029:ouKBE8hpk448OrRh@cluster0.yu0xlvv.mongodb.net/?retryWrites=true&w=majority")
+cliente=MongoClient("mongodb+srv://xxxh@cluster0.yu0xlvv.mongodb.net/?retryWrites=true&w=majority")
 
 #Enlazar y crear base de datos mediante pandas.
 data=cliente.prueba
