@@ -1,7 +1,7 @@
 from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi
 
-cliente=MongoClient("mongodb+srv://larisalopez8029:ouKBE8hpk448OrRh@cluster0.yu0xlvv.mongodb.net/?retryWrites=true&w=majority")
+cliente=MongoClient("mongodb+srv://xxxxx@cluster0.yu0xlvv.mongodb.net/?retryWrites=true&w=majority")
 
 import streamlit as st
 import matplotlib.pyplot as plt
