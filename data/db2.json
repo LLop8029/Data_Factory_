@@ -1,0 +1,28 @@
+
+{
+    "id_exhibidor": {
+        "data_type" : "string",
+        "business_name" :"Identificador del exhibidor",
+        "level" : "SPI"
+        },
+    "id_pdv": {
+        "data_type" : "string",
+        "business_name" :"Identificador del punto de venta",
+        "level" :"PI"
+    },
+    "estado_fisico": {
+        "data_type" : "string",
+        "business_name" :"Estado físico en el que se encuentra el exhibidor",
+        "level" :"PI"
+    },
+    "largo": {
+        "data_type" : "float",
+        "business_name" :"largo del exhibidor en centímetros",
+        "level" :"PI"
+    },
+    "alto": {
+        "data_type" : "float",
+        "business_name" :"alto del exhibidor en centímetros",
+        "level" :"PI"
+    }
+}

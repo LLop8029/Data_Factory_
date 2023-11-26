@@ -1,0 +1,51 @@
+id_pdv,nombre,estado,ciudad,cp
+1,Eléctrica Alex,Jalisco,Guadalajara,44600
+2,ElectroShop,Sinaloa,Culiacán,80000
+3,PowerTech,California,Los Angeles,90001
+4,EnergyMart,Arizona,Phoenix,85001
+5,ElectroWave,New York,New York City,10001
+6,GigaElectronics,Texas,Houston,77001
+7,QuickPower,Florida,Miami,33101
+8,EcoSpark,Illinois,Chicago,60601
+9,GreenEnergy,Ohio,Columbus,43201
+10,LightningTech,Colorado,Denver,80201
+11,WattWorld,Oregon,Portland,97201
+12,ElectroExpress,Georgia,Atlanta,30301
+13,PowerPlus,Michigan,Detroit,48201
+14,HighVolt,Washington,Seattle,98101
+15,EnergyEco,Massachusetts,Boston,02101
+16,GreenPower,Nevada,Las Vegas,89101
+17,SparkElectro,Pennsylvania,Philadelphia,19101
+18,EcoCharge,Virginia,Richmond,23218
+19,ElectroCity,North Carolina,Charlotte,28201
+20,PowerPro,Missouri,Kansas City,64101
+21,ElectroGuru,Louisiana,New Orleans,70112
+22,VoltaVille,Maryland,Baltimore,21201
+23,ChargeZone,Minnesota,Minneapolis,55401
+24,SunEnergy,New Jersey,Newark,07101
+25,ElectricHub,Wisconsin,Milwaukee,53201
+26,PowerLink,Kentucky,Louisville,40201
+27,ElectroZone,Indiana,Indianapolis,46201
+28,EcoCharge,Oklahoma,Oklahoma City,73101
+29,GreenTech,Nebraska,Lincoln,68501
+30,EnergyHub,Kansas,Wichita,67201
+31,ElectricWave,Hawaii,Honolulu,96801
+32,PowerMax,New Mexico,Albuquerque,87101
+33,EcoEra,Connecticut,Hartford,06101
+34,WattWonders,Arkansas,Little Rock,72201
+35,ElectricPlus,Utah,Salt Lake City,84101
+36,ChargeCity,Rhode Island,Providence,02901
+37,SolarElectro,Delaware,Wilmington,19801
+38,PowerPulse,Iowa,Des Moines,50301
+39,EnergyNest,Idaho,Boise,83701
+40,ElectricEase,New Hampshire,Manchester,03101
+41,GreenGlobe,Maine,Portland,04101
+42,ChargeFlow,West Virginia,Charleston,25301
+43,EcoCurrent,Alaska,Anchorage,99501
+44,PowerBolt,Vermont,Burlington,05401
+45,ElectroFusion,Montana,Helena,59601
+46,GreenCharge,South Dakota,Pierre,57501
+47,SparkSaver,Wyoming,Cheyenne,82001
+48,EnergyXpress,North Dakota,Bismarck,58501
+49,ElectricPulse,Mississippi,Jackson,39201
+50,EcoSparkle,South Carolina,Columbia,29201
