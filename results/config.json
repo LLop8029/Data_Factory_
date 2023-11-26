@@ -1,0 +1,121 @@
+{
+    "golden_db1": {
+        "original_name": "db1",
+        "golden_field1": "id_pdv",
+        "golden_field2": "nombre",
+        "golden_field3": "estado",
+        "golden_field4": "ciudad",
+        "golden_field5": "cp"
+    },
+    "golden_db2": {
+        "original_name": "db2",
+        "golden_field1": "id_exhibidor",
+        "golden_field2": "id_pdv",
+        "golden_field3": "estado_fisico",
+        "golden_field4": "largo",
+        "golden_field5": "alto"
+    },
+    "Laura": {
+        "activities": [
+            {
+                "action": "login",
+                "timestamp": "25/11/2023 17:48:38"
+            },
+            {
+                "action": "login",
+                "timestamp": "25/11/2023 18:30:38"
+            },
+            {
+                "action": "login",
+                "timestamp": "25/11/2023 18:32:17"
+            },
+            {
+                "action": "login",
+                "timestamp": "25/11/2023 18:36:57"
+            },
+            {
+                "action": "unsuccess_db_check",
+                "timestamp": "25/11/2023 18:37:00",
+                "data_accessed": "estado"
+            },
+            {
+                "action": "login",
+                "timestamp": "25/11/2023 18:38:40"
+            },
+            {
+                "action": "unsuccess_db_check",
+                "timestamp": "25/11/2023 18:38:42",
+                "data_accessed": "cp"
+            },
+            {
+                "action": "login",
+                "timestamp": "25/11/2023 18:39:23"
+            },
+            {
+                "action": "success_db_check",
+                "timestamp": "25/11/2023 18:39:28",
+                "data_accessed": "largo"
+            },
+            {
+                "action": "login",
+                "timestamp": "25/11/2023 18:42:18"
+            },
+            {
+                "action": "success_db_check",
+                "timestamp": "25/11/2023 18:42:25",
+                "data_accessed": "alto"
+            },
+            {
+                "action": "login",
+                "timestamp": "25/11/2023 18:43:36"
+            },
+            {
+                "action": "success_db_check",
+                "timestamp": "25/11/2023 18:43:41",
+                "data_accessed": "estado_fisico"
+            },
+            {
+                "action": "login",
+                "timestamp": "26/11/2023 11:14:26"
+            },
+            {
+                "action": "success_db_check",
+                "timestamp": "26/11/2023 11:14:31",
+                "data_accessed": "largo"
+            },
+            {
+                "action": "unsucessful_login",
+                "timestamp": "26/11/2023 11:23:57"
+            },
+            {
+                "action": "unsucessful_login",
+                "timestamp": "26/11/2023 11:24:58"
+            }
+        ]
+    },
+    "Francisco": {
+        "activities": [
+            {
+                "action": "login",
+                "timestamp": "25/11/2023 18:36:05"
+            },
+            {
+                "action": "login",
+                "timestamp": "25/11/2023 18:41:46"
+            },
+            {
+                "action": "unsuccess_db_check",
+                "timestamp": "25/11/2023 18:41:50",
+                "data_accessed": "Estado"
+            },
+            {
+                "action": "unsucessful_login",
+                "timestamp": "26/11/2023 11:23:07"
+            },
+            {
+                "action": "unsucessful_login",
+                "timestamp": "26/11/2023 11:26:23"
+            }
+        ]
+    }
+}
